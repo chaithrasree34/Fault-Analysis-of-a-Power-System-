@@ -1,1 +1,0 @@
-# Fault-Analysis-of-a-Power-System-
